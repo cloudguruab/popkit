@@ -1,4 +1,3 @@
-// pages/profile.js
 import { Auth, Typography, Button } from "@supabase/ui";
 const { Text } = Typography
 import { supabase } from '../api'
